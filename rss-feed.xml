@@ -32,7 +32,10 @@
             <yandex:related></yandex:related>
             <turbo:content>
                 <![CDATA[
-                    <!-- Содержимое моей 1 страницы -->
+                    <header>
+                        <h1>Привет это мой первый сайт</h1>
+                    </header>
+                    <p>Привет это мой первый сайт</p>
                 ]]>
             </turbo:content>
         </item>
