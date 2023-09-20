@@ -22,7 +22,7 @@
             <pubDate>Wed, 20 Sep 2023 10:30:00 +0300</pubDate>
             <author>Дмитрий Парфенов</author>
             <metrics>
-                <yandex schema_identifier="Идентификатор">
+                <yandex schema_identifier="123123">
                     <breadcrumblist>
                         <breadcrumb url="https://lebwa82.github.io/index.html" text="Домашняя"/>
                         <breadcrumb url="https://lebwa82.github.io/index.html" text="страница 2"/>
@@ -35,10 +35,10 @@
                     <header>
                         <h1>Привет это мой первый сайт</h1>
                     </header>
-                    <p>Привет это мой первый сайт</p>
+                    <p>Тут какой-то контент</p>
+
                 ]]>
             </turbo:content>
         </item>
-
     </channel>
 </rss>
