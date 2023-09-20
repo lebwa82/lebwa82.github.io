@@ -6,7 +6,7 @@
     <channel>
         <!-- Информация о сайте-источнике -->
         <title>lebwa82.github.io</title>
-        <link>https://lebwa82.github.io</link>
+        <link>https://lebwa82.github.io/</link>
         <description>Краткое описание канала</description>
         <language>ru</language>
         <turbo:analytics type="Yandex"
@@ -16,7 +16,7 @@
         <item turbo="true">
             <!-- Информация о странице -->
             <turbo:extendedHtml>true</turbo:extendedHtml>
-            <link>https://lebwa82.github.io/index.html</link>
+            <link>https://lebwa82.github.io/page1.html</link>
             <turbo:source></turbo:source>
             <turbo:topic></turbo:topic>
             <pubDate>Wed, 20 Sep 2023 10:30:00 +0300</pubDate>
@@ -25,7 +25,7 @@
                 <yandex schema_identifier="123123">
                     <breadcrumblist>
                         <breadcrumb url="https://lebwa82.github.io/index.html" text="Домашняя"/>
-                        <breadcrumb url="https://lebwa82.github.io/index.html" text="страница 2"/>
+                        <breadcrumb url="https://lebwa82.github.io/page1.html" text="страница 2"/>
                     </breadcrumblist>
                 </yandex>
             </metrics>
