@@ -6,7 +6,7 @@
     <channel>
         <!-- Информация о сайте-источнике -->
         <title>lebwa82.github.io</title>
-        <link>https://lebwa82.github.io/</link>
+        <link>https://lebwa82.github.io</link>
         <description>Краткое описание канала</description>
         <language>ru</language>
         <turbo:analytics type="Yandex"
@@ -19,8 +19,8 @@
             <link>https://lebwa82.github.io/index.html</link>
             <turbo:source></turbo:source>
             <turbo:topic></turbo:topic>
-            <pubDate>Tue, 21 Apr 2015 14:15:00 +0300</pubDate>
-            <author>Иван Иванов</author>
+            <pubDate>Wed, 20 Sep 2023 10:30:00 +0300</pubDate>
+            <author>Дмитрий Парфенов</author>
             <metrics>
                 <yandex schema_identifier="Идентификатор">
                     <breadcrumblist>
